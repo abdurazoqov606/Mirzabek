@@ -110,7 +110,7 @@ async def greet(e):
     await asyncio.sleep(1.5)
     await m.edit("안녕하세요")
     await asyncio.sleep(1.5)
-    await m.edit("5679⁴90f592 kodini eslab qoling bir kun kerak boʻladi ")
+    await m.edit("Assalomu aleykum online boʻlsam tezda aloqaga chiqaman")
 
 
 # ---------- Tahrirlash ----------
